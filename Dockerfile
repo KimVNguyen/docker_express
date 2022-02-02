@@ -1,4 +1,4 @@
-FROM node:10
+FROM node:lts
 ARG USR=node
 
 #Does all the things we need to do as root
